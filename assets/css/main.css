@@ -7,16 +7,14 @@ body{
   padding: 0;
 }
 .caja{
-  width: 231px;
-  height: 231px;
+  width: 200px;
+  height: 200px;
 }
 #rosa{
   background-color: #EE3E64;
 }
 #azul{
   background-color: #2B7DB9;
-  position: absolute;
-  left: 231px;
 }
 #verde{
   background-color: #B7D84B;
