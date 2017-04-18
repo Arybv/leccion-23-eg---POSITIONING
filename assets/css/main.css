@@ -9,15 +9,25 @@ body{
 .caja{
   width: 231px;
   height: 231px;
+  position: absolute;
 }
 #rosa{
   background-color: #EE3E64;
+  left: 0;
+  top: 0;
 }
 #azul{
   background-color: #2B7DB9;
-  position: relative;
-  left: 231px;
+  right: 0;
+  top: 0;
 }
 #verde{
+  left: 0;
+  bottom: 0;
   background-color: #B7D84B;
+}
+#amarillo{
+  background-color: #FAFF16;
+  right: 0;
+  bottom: 0;
 }
